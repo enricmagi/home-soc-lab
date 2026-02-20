@@ -1,4 +1,4 @@
-Incident Report — [Incident title]
+Incident Report — 01-Brute_Force
 
 Example:
 
